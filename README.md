@@ -11,4 +11,9 @@ This is my final project for Üretken Akademi & LC Waikiki ReactJS Bootcamp 2022
 
 ## Live Demo
 
-[Click here](https://food-delivery-project-fea82.web.app/)
+### [Click here](https://food-delivery-project-fea82.web.app/)
+
+## Video Introduction
+
+### [YouTube](https://youtu.be/_LgEL76ZTG8)
+### [Vimeo](https://vimeo.com/728384511)
