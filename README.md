@@ -16,4 +16,3 @@ This is my final project for Üretken Akademi & LC Waikiki ReactJS Bootcamp 2022
 ## Video Introduction
 
 ### [YouTube](https://youtu.be/_LgEL76ZTG8)
-### [Vimeo](https://vimeo.com/728384511)
